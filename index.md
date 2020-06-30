@@ -15,3 +15,5 @@ He once said:
 
 > I'm here.
 > Yes, I am here!
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Moctezuma_Mendoza.jpg"/>
